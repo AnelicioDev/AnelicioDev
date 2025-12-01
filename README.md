@@ -7,6 +7,8 @@
 
 ## Tecnologias que eu uso no meu dia
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <div style="display: inline_block">
 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
