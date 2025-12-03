@@ -7,7 +7,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,dart,flutter,androidstudio&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,unity,java,spring,dart,flutter&perline=4)](https://skillicons.dev)
 
 <div style="display: inline_block"> 
 </div><br/>
